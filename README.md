@@ -121,6 +121,7 @@ Here are some awesome tools for dealing with CSV:
 - [Reference data in csv](https://datahub.io/collections/reference-data) - Easy-to-use reference data in CSV and JSON formats.
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of high-quality open datasets in public domains.
 - [United Nations data](https://data.un.org) - Data from the UN
+- [Lawyer advertising rules by state](https://probativegrowth.com/data/v1/rules/rules.csv) - One-row-per-state CSV (50 US states + DC) of lawyer-advertising rules, each value source-coded; CC BY 4.0, with a JSON twin and a DOI.
 
 ## Conferences
 
